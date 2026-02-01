@@ -1,0 +1,5 @@
+{
+  "name": "Neon Trivia Battle",
+  "description": "Un juego de trivia 1vs1 por turnos con estética Cyberpunk. Elige un tema y compite para ser el primero en acertar 15 preguntas.",
+  "requestFramePermissions": []
+}
