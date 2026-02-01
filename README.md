@@ -1,12 +1,12 @@
 # 🎮 Neon Trivia
 
+<div align="center" style="display:grid;">
 
 ![Neon Trivia](https://img.shields.io/badge/Neon-Trivia-ff00ff?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<div align="center" style="display:grid;">
 Un juego de trivia interactivo con una estética neon vibrante y futurista, potenciado por IA.
 
 [Reportar Bug](https://github.com/ipcarlos/neon-trivia/issues) · [Solicitar Feature](https://github.com/ipcarlos/neon-trivia/issues)
